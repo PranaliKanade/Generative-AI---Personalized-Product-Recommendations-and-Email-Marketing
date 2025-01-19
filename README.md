@@ -1,7 +1,7 @@
 # Leveraging Generative AI for Personalized Product Recommendations and Email Marketing
 
 **Abstract**
-This project explores a system that combines the power of collaborative filtering for generating product recommendations with the natural language capabilities of Generative AI for crafting personalized promotional emails. By integrating these two technologies, businesses can deliver targeted and engaging marketing messages to individual customers, ultimately enhancing customer relationships and driving sales.
+Developing a system that combines the power of collaborative filtering for generating product recommendations with the natural language capabilities of Generative AI for crafting personalized promotional emails. By integrating these two technologies, businesses can deliver targeted and engaging marketing messages to individual customers, ultimately enhancing customer relationships and driving sales.
 
 **1. Introduction**
 
